@@ -1,0 +1,6 @@
+How to push on git:
+
+git add .
+git push
+git commit -m "hi"
+git push
